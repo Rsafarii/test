@@ -1,6 +1,2 @@
 streamlit==1.27.2
-tensorflow==2.14.0
-streamlit_folium==0.15.0
-folium==0.14.0
-matplotlib==3.5.1
-numpy==1.26.1
+barfi
